@@ -16,6 +16,18 @@
 <p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
 ]]></content>
       
+        <categories>
+            
+            <category> blog </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> hello </tag>
+            
+        </tags>
         
     </entry>
     
@@ -40,7 +52,7 @@
       
         <categories>
             
-            <category> Text1 </category>
+            <category> blog </category>
             
         </categories>
         
